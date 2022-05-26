@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VACCINATION CENTRE FINDER</string>
+    <string name="newsroom">VACCINATION CENTRE FINDER</string>
+    <string name="title_activity_vaccination_centres">Map</string>
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="dashboard"></string>
+    <string name="dashboard_text">"Who must register?
+            All Healthcare Workers (public and private)
+            Citizens aged 60 years and older
+            What will the information be used for?
+Information submitted during registration will be used to:
+
+Identify eligible vaccination beneficiaries
+Plan supply of vaccines and ancillary items
+Allocate beneficiaries to their nearest available service point
+Communicate with enrolled individuals about the vaccination program, including but not limited to:
+eligibility
+where they will be vaccinated
+follow-up vaccination appointments."</string>
+
+</resources>

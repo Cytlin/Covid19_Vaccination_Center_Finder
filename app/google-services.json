@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771075527319",
+    "project_id": "vaccinationcentre2",
+    "storage_bucket": "vaccinationcentre2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771075527319:android:67fd833122473ae8380fd2",
+        "android_client_info": {
+          "package_name": "com.example.VaccinationCentre2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771075527319-i7hdamna2ro0khth8355beehg3cdsq64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVi8-06OnKq_vNiAF4dV1JGXu_9Y82zjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771075527319-i7hdamna2ro0khth8355beehg3cdsq64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
